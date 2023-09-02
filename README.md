@@ -4,7 +4,7 @@ I used [New York Times repository](https://github.com/nytimes/covid-19-data) of 
 The code for this problem uses the Python requests library to access the New York Times data stored in an accessible GitHub repository. This is stored as a CSV file. The program then uses DictReader to read the CSV file. It then creates a States list to use selected States for calculations.
 
 
-USAGE:
+- USAGE:
 
 $ python seven-day-average.py
 
@@ -17,7 +17,7 @@ State: New York
 State:
 
 
-OUTPUT example:
+- OUTPUT example:
 
 Seven-Day Averages
 
